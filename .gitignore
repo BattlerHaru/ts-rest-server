@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Node.js
+node_modules/
+
+# Configuración de entorno
+.env
+!.env.template
+
+# Archivos de respaldo de VSCode
+.vscode/
+*.code-workspace
+
+# Carpeta de distribución (compilación)
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
