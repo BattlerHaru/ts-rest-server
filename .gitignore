@@ -24,3 +24,11 @@ dist/
 # TypeScript cache
 *.tsbuildinfo
 
+# Carpeta de datos MySQL
+mysql/*
+!mysql/.gitkeep
+mysql/data/*
+!mysql/data/.gitkeep
+
+
+
